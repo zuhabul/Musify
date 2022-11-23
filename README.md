@@ -1,6 +1,6 @@
 # Musify - Simple, beautify Music player
 
-## A Music player for android, iOS, macOs and Windows operating system
+## A Music player for android, iOS, macOS Windows and Linux operating system
 
 ### Features
 
